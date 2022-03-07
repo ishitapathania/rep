@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 18C0-0DD6
-
- Directory of C:\Users\HP USER\Desktop\MyProject
-
-07-03-2022  13:45    <DIR>          .
-07-03-2022  13:45    <DIR>          ..
-07-03-2022  13:45                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  11,351,732,224 bytes free
+change 1
